@@ -1,6 +1,5 @@
-
 # Hi, I'm Muhammad Abdullah Khan 👋
-<img align="right" width="180" src="assets/funny-cat.jpg" alt="funny cat" />
+<img align="right" width="180" src="funny-cat.jpg" alt="funny cat" />
 
 I'm a Software Engineering student at **International Islamic University Islamabad (IIUI)**, passionate about UI/UX design and web development. I enjoy building clean, user-focused applications and learning modern software practices.
 - 🎓 Software Engineering student @ IIUI
@@ -18,7 +17,7 @@ I'm a Software Engineering student at **International Islamic University Islamab
 ![Python](https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=306998)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img align="right" width="300" src="assets/dog-coder.png" alt="coding dog" />
+<img align="right" width="300" src="dog-coder.png" alt="coding dog" />
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,8 +28,6 @@ I'm a Software Engineering student at **International Islamic University Islamab
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -40,8 +37,6 @@ I'm a Software Engineering student at **International Islamic University Islamab
 ![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=green)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=yellow)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
 
 ###### Non-Programming Skills:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
