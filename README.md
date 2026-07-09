@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="funny-cat.jpg" width="180" alt="funny cat" />
-</p>
+<img align="right" width="180" src="funny-cat.jpg" alt="funny cat" />
 
 # Hi, I'm Muhammad Abdullah Khan 👋
 I'm a Software Engineering student at **International Islamic University Islamabad (IIUI)**, passionate about UI/UX design and web development. I enjoy building clean, user-focused applications and learning modern software practices.
@@ -38,9 +36,7 @@ I'm a Software Engineering student at **International Islamic University Islamab
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=yellow)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="center">
-  <img src="dog-coder.png" width="300" alt="coding dog" />
-</p>
+<img align="right" width="300" src="dog-coder.png" alt="coding dog" />
 
 ###### Non-Programming Skills:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
