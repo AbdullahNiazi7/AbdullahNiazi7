@@ -1,6 +1,7 @@
-<img align="right" width="180" src="funny-cat.jpg" alt="funny cat" />
 
 # Hi, I'm Muhammad Abdullah Khan 👋
+<img align="right" width="180" src="funny-cat.jpg" alt="funny cat" />
+
 I'm a Software Engineering student at **International Islamic University Islamabad (IIUI)**, passionate about UI/UX design and web development. I enjoy building clean, user-focused applications and learning modern software practices.
 - 🎓 Software Engineering student @ IIUI
 - 💻 Interested in UI/UX Design & Web Development
