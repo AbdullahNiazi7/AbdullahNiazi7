@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/funny-cat.jpg" width="180" alt="funny cat" />
+  <img src="assets/funny-cat.jpg" width="180" alt="funny-cat" />
 </p>
 
 # Hi, I'm Muhammad Abdullah Khan 👋
