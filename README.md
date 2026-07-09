@@ -18,6 +18,8 @@ I'm a Software Engineering student at **International Islamic University Islamab
 ![Python](https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=306998)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<img align="right" width="300" src="assets/dog-coder.png" alt="coding dog" />
+
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +29,7 @@ I'm a Software Engineering student at **International Islamic University Islamab
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img align="right" width="300" src="assets/dog-coder.png" alt="coding dog" />
+
 
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
