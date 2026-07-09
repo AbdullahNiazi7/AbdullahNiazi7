@@ -47,11 +47,7 @@ I'm a Software Engineering student at **International Islamic University Islamab
 
 [![](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahNiazi7&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNiazi7&layout=compact)
 
-[![](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
 ### 📫 Find me on
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdkhanniazi@gmail.com)
