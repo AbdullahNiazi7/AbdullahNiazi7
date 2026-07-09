@@ -38,6 +38,10 @@ I'm a Software Engineering student at **International Islamic University Islamab
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=yellow)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<p align="center">
+  <img src="dog-coder.png" width="300" alt="coding dog" />
+</p>
+
 ###### Non-Programming Skills:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
